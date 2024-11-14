@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-kicbase/stable:v0.0.45
+kicbase/stable:v0.0.42
